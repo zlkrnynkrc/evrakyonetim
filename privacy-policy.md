@@ -1,5 +1,52 @@
+Gizlilik Politikası
+Son Güncelleme Tarihi: 2025-07-22
+
+Bu Gizlilik Politikası, Evrak Yönetimi mobil uygulamasının ("Uygulama") kullanıcı verilerini nasıl işlediğini açıklamaktadır. Uygulamamızın temel amacı, evraklarınızı cihazınızda yerel olarak yönetmenizi sağlamaktır.
+
+1. Topladığımız Bilgiler
+
+Uygulamamız, doğrudan kişisel olarak tanımlanabilir herhangi bir bilgi (adınız, e-posta adresiniz, konumunuz vb.) toplamaz. Uygulama içinde oluşturduğunuz veya içe aktardığınız tüm evraklar, notlar ve etiketler yalnızca cihazınızın yerel depolama alanında (IndexedDB) saklanır. Bu veriler, herhangi bir harici sunucuya gönderilmez veya bizim tarafımızdan erişilmez.
+
+2. Verilerin Kullanımı
+
+Topladığımız veya işlediğimiz veriler (cihazınızda yerel olarak depolanan evraklarınız), yalnızca Uygulamanın temel işlevlerini yerine getirmek için kullanılır:
+
+Evraklarınızı düzenlemek, görüntülemek ve yönetmek.
+Evraklarınıza etiketler ve açıklamalar eklemek.
+Evraklarınızın versiyonlarını takip etmek.
+Evraklarınızı cihazınızdan dışa aktarmak veya içe aktarmak.
+3. Veri Depolama ve Güvenliği
+
+Tüm evrak verileriniz, cihazınızın yerel depolama alanında (IndexedDB) saklanır. Bu, verilerinizin kontrolünün tamamen sizde olduğu anlamına gelir. Ancak, bu veriler Uygulama içinde şifrelenmemiştir. Cihazınızın güvenliği (örneğin, cihaz kilidi, şifreleme) sizin sorumluluğunuzdadur. Cihazınızın kaybolması, çalınması veya yetkisiz erişime uğraması durumunda, Uygulama içinde depolanan evraklarınızın güvenliği risk altında olabilir.
+
+4. Üçüncü Taraf Hizmetleri
+
+Uygulamamız, aşağıdaki üçüncü taraf hizmetlerini kullanabilir:
+
+AdMob (Google): Uygulama içinde reklam göstermek için kullanılır. AdMob, reklam kişiselleştirme amacıyla cihazınızla ilgili bilgileri (örneğin, reklam kimliği) toplayabilir. Google'ın AdMob Gizlilik Politikası hakkında daha fazla bilgi için lütfen Google'ın web sitesini ziyaret edin.
+Capacitor Eklentileri: Dosya sistemi erişimi, kamera kullanımı ve paylaşım gibi cihaz özelliklerine erişmek için kullanılır. Bu eklentiler, Uygulamanın temel işlevlerini yerine getirmek için gerekli olan verileri (örneğin, seçtiğiniz bir dosyayı okumak) işleyebilir, ancak bu veriler bizim tarafımızdan toplanmaz veya saklanmaz.
+5. Veri Paylaşımı ve Açıklama
+
+Uygulamamız, cihazınızda depolanan evrak verilerinizi veya kişisel bilgilerinizi hiçbir üçüncü tarafla paylaşmaz, satmaz, kiralamaz veya ifşa etmez.
+
+6. Veri Saklama
+
+Uygulama içinde oluşturduğunuz veya içe aktardığınız evraklar, Uygulamayı cihazınızdan silmediğiniz sürece cihazınızda kalır. Uygulamayı kaldırdığınızda, tüm yerel verileriniz de silinecektir.
+
+7. Sorumluluk Reddi Beyanları
+
+Şifrelenmemiş Veri Sorumluluk Reddi: Uygulama içinde depolanan evrak verileri şifrelenmemiştir. Bu verilerin güvenliği, cihazınızın genel güvenliğine bağlıdır. Cihazınızın güvenliğini sağlamak tamamen sizin sorumluluğunuzdadır. Uygulama, şifrelenmemiş verilerin yetkisiz erişimi, kötüye kullanımı veya ifşası nedeniyle oluşabilecek herhangi bir zarardan sorumlu değildir.
+Evrak Kaybı Sorumluluk Reddi: Uygulama, evraklarınızı yerel olarak cihazınızda depolar. Cihazınızın arızalanması, kaybolması, çalınması, hasar görmesi veya Uygulamanın yanlışlıkla silinmesi gibi durumlarda evraklarınızın kaybolmasından Uygulama sorumlu değildir. Verilerinizin güvenliğini sağlamak için düzenli olarak yedekleme yapmanız (örneğin, dışa aktarma özelliğini kullanarak) şiddetle tavsiye edilir.
+8. Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişiklik, Uygulama içinde veya web sitemizde yayınlanarak yürürlüğe girecektir. Önemli değişiklikler için sizi bilgilendireceğiz.
+
+9. Bize Ulaşın
+
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen [zulkarneynkarauce@gmail.com] adresinden bizimle iletişime geçin.
+
 Privacy Policy
-Last Updated: 2024-05-15
+Last Updated: 2025-07-22
 
 This Privacy Policy explains how the Document Manager mobile application (the "App") handles user data. The primary purpose of our App is to allow you to manage your documents locally on your device.
 
@@ -43,5 +90,5 @@ We may update this Privacy Policy from time to time. Any changes will be effecti
 
 9. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Support Email Address].
+If you have any questions about this Privacy Policy, please contact us at [zulkarneynkarauce@gmail.com].
 
